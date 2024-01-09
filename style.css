@@ -10,8 +10,12 @@ body {
 
 .main{
     width: 350px;
-    height: 500px;
+    height: 460px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 5px 20px 50px #000;
+}
+
+#chk{
+    display: none;
 }
